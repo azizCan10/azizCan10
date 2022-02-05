@@ -8,6 +8,7 @@
 <a href="https://twitter.com/azz_cn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azz_cn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/azizcanoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azizcanoz" height="30" width="40" /></a>
 <a href="https://instagram.com/azz.cn.o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azz.cn.o" height="30" width="40" /></a>
+<a href="https://medium.com/@oz.azizcann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@oz.azizcann" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
