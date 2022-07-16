@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aziz Can ÖZ</h1>
-<h3 align="center">I'm a Desktop-Web developer in Turkey</h3>
+<h3 align="center">I'm a Software developer in Turkey</h3>
 
 - 📫 How to reach me **oz.azizcann@gmail.com**
 
