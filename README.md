@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile, I'm Aziz Can ÖZ</h1>
+<h1 align="center">Welcome to my profile</h1>
 <h3 align="center">I'm a software developer in Turkey</h3>
 
 - 📫 How to reach me **oz.azizcann@gmail.com**
