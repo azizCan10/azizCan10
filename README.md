@@ -1,4 +1,6 @@
+<div class="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Hi%2C+I+am+Aziz+Can+%C3%96z;I+am+a+Java+Developer" alt="Typing SVG" /></a>
+</div>
 
 - 📫 How to reach me **oz.azizcann@gmail.com**
 
