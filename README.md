@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Aziz Can ÖZ</h1>
 <h3 align="center">I'm a Java developer in Turkey</h3>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Aziz+Can+%C3%96z;I+am+a+Java+Developer" alt="Typing SVG" /></a>
+
 - 📫 How to reach me **oz.azizcann@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
